@@ -1,28 +1,25 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
+  role: Postdoctoral Scholar
+  time: 2012 - Present
+  company: Laboratory of Dr. Wallace Marshall, UCSF
+  details: "I studied the large ciliate Stentor coeruleus, a model for single cell 
+  regeneration. I was heavily involved in the Stentor genome project, generating and 
+  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size. 
   <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  I have also been analyzing the global kinome of Stentor, which contains >2000 kinases.
+  Recently we have been using this data to reveal a role for CDK1 homologs in regeneration."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: PhD Student
+  time: 2006 - 2012
+  company: Laboratory of Dr. Boris Striepen, UGA
+  details: "I studied the maintenance and replication of the plastid genome in the 
+  Apicomplexan parasite Toxoplasma gondii. I constructed conditional genetic mutants and 
+  used fluorescence microscopy and qPCR assays to show that the histone-like HU protein 
+  is essential for apicoplast DNA replication and proper plastid segregation."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Undergraduate Researcher
+  time: 2004 - 2006
+  company: Laboratory of Dr. Michele Klingbeil, UMass Amherst
+  details: "I examined the function of the mtDNA polymerase PolIA in the parasite Trypanosoma 
+  brucei. I used RNAi to knock down this non-essential gene and designed assays to DNA damaging
+  agents to probe a function in mtDNA repair."
