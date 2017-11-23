@@ -1,24 +1,43 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Reiff, S.B. and Marshall, W.F. (2017) A large kinome in a large cell: Stentor coeruleus possesses 
+  highly expanded kinase families and novel domain architectures. BioRxiv doi: 10.1101/168187
+  <br>
+  Slabodnick, M.M.*, Ruby, J.G.*, Reiff, S.B.*, Swart, E.C.*, Gosai, S., Prabakaran, S., Witkowska, E., Larue, G.E., 
+  Fisher, S., Freeman, R.M. Jr., Gunawardena, J., Chu, W., Stover, N.A., Gregory, B.D., Nowacki, M., DeRisi, J., 
+  Roy, S.W., Marshall, W.F., and Sood, P. (2017) The Macronuclear Genome of Stentor coeruleus Reveals Tiny Introns 
+  in a Giant Cell. Curr. Biol. 27(4): 569-575. (* - equal contributions)
+  <br>
+  Reiff, S.B. and Marshall, W.F. (2015) Stentor, Its Cell Biology and Development. eLS. doi: 10.1002/9780470015902.a0025978 (Review)
+  <br>
+  Reiff, S.B., Vaishnava, S, and Striepen, B. (2012) The HU Protein is Important for Apicoplast Genome Maintenance 
+  and Inheritance in Toxoplasma gondii. Eukaryot. Cell 11(7): 905-915.
+  <br>
+  Reiff, S.B. and Striepen, B. (2009) Malaria: The Gatekeeper Revealed. Nature 459(7249): 918-919. (Commentary)
+  <br>
+  van Dooren, G.G., Reiff, S.B., Tomova, C., Meissner, M., Humbel, B.M., and Striepen, B. (2009) A Novel Dynamin-Related 
+  Protein Has Been Recruited for Apicoplast Fission in Toxoplasma gondii. Curr. Biol. 19(4): 267-276.
+  <br>
+  Striepen, B., Jordan, C., Reiff, S., and van Dooren,G.G. (2007) Building the Perfect Parasite: Cell Division in 
+  the Apicomplexa.  PLoS Path. 6(3): e78. (Review)
+  "
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: 
+  link: 
+  tagline: 
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: 
+  link: 
+  tagline: 
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  title: 
+  link: 
+  tagline: 
 - project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  title: 
+  link: 
+  tagline: 
 - project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: 
+  link: 
+  tagline: 
