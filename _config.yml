@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Reiff CV
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -14,10 +14,10 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Genome Biologist
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'I have extensive experience in genetics and genomics of various protozoa, including apicomplexan parasites. 
+My graduate work focused on apicoplast DNA replication in Toxoplasma, but in my postdoctoral studies I have cultivated 
+a bioinformatics skill set and been heavily involved in the genome project for the free-living ciliate Stentor. I am 
+excited about bioinformatics and genomics of protists and am seeking a staff position away from the wet lab.'
 
 #sidebar links
 email: sbreiff@gmail.com
