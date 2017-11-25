@@ -1,3 +1,9 @@
+My personalized version of this theme, edited to be more useful for biologists, can be seen here [https://sbreiff.github.io/online-CV/](https://sbreiff.github.io/online-CV/)
+
+Below is the readme I forked from [sharu725](https://github.com/sharu725/online-cv/)
+
+************************************************************************************
+
 This theme is designed by Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/). Visit her website for more themes [http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
 
 
