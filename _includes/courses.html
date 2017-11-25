@@ -1,0 +1,27 @@
+{% if site.data.courses %}
+<section class="section courses-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Workshops and Training</h2>
+
+{% for course in site.data.courses %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="course-upper-row">
+        <p class="course-title">{{ course.title }}</p>
+        <div class="course-time">{{ course.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+    <!--{% if course.details %}
+    <div class="details">
+      <p>{{ course.details }}</p>
+    </div>--><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
