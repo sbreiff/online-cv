@@ -1,12 +1,18 @@
-- intro:
-  description: "2017&emsp;International Congress of Protistology
-  <br>
-  2016&emsp;American Society for Cell Biology Annual Meeting (2016)
-  <br>
-  The Allied Genetics Conference (2016)
-  <br>
-  American Society for Cell Biology Annual Meeting (2015)
-  <br>
-  VI European Congress of Protistology (2011)
-  <br>
-  21st Molecular Parasitology/Vector Biology Symposium (2011)"
+- presentation:
+  role: "International Congress of Protistology"
+  time: 2017
+- presentation:
+  role: "American Society for Cell Biology Annual Meeting"
+  time: 2016
+- presentation:
+  role: "The Allied Genetics Conference" 
+  time: 2016
+- presentation:
+  role: "American Society for Cell Biology Annual Meeting"
+  time: 2015
+- presentation:
+  role: VI European Congress of Protistology
+  time: 2011
+- presentation:
+  role: "21st Molecular Parasitology/Vector Biology Symposium"
+  time: 2011
