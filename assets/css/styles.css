@@ -251,6 +251,11 @@ p {
   margin-top: 0;
   margin-bottom: 12px;
 }
+.skillset .level-title2 {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
 .skillset .level-bar {
   font-size: 14px;
   margin-top: 0;
@@ -300,12 +305,11 @@ p {
     width: 50%;
     margin-bottom: 0;
   }
-  .skillset .level-bar {
+  .skillset .level-title2 {
     display: inline-block;
-    width: 50%;
     float: left;
-    position: relative;
-    top: 1px;
+    width: 50%;
+    margin-bottom: 0;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
