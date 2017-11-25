@@ -1,18 +1,24 @@
 - skill:
-  name: Python
+  name: Python, R
+  name2: Gene Annotation
   level: 0%
 - skill:
-  name: R
+  name: Version control with Git
+  name2: Sequence alignment and phylogenetic analysis
   level: 0%
 - skill:
   name: RNA-Seq analysis and workflow
+  name2: General molecular biology techniques
   level:
 - skill:
   name: SQL queries
+  name2: Mentoring and outreach experience
   level:
 - skill:
   name:
+  name2:
   level:
 - skill:
   name:
+  name2:
   level:
