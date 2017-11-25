@@ -23,3 +23,10 @@
   details: "I examined the function of the mtDNA polymerase PolIA in the parasite Trypanosoma 
   brucei. I used RNAi to knock down this non-essential gene and designed assays to DNA damaging
   agents to probe a function in mtDNA repair."
+- experience:
+  role: Summer REU Intern
+  time: 2005
+  company: Laboratory of Dr. Joseph Jerry, UMass Amherst
+  details: "I was investigating the role of p53 in DNA double strand break repair. I worked with 
+  mice and measured rates of homologous recombination and non-homologous end-joining in p53+/+, 
+  p53+/-, and p53-/- mouse cells. "
