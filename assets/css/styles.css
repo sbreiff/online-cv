@@ -355,6 +355,10 @@ p {
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
+  .skillset .item {
+    margin-bottom: 0;
+    overflow: hidden;
+  }
   .main-wrapper .pres-title {
     display: block;
     float: left;
