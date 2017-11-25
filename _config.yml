@@ -12,7 +12,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Sarah Reiff
-tagline: Genome Biologist
+tagline: Genomics Scientist
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'I have extensive experience in genetics and genomics of various protozoa, including apicomplexan parasites. 
 My graduate work focused on apicoplast DNA replication in Toxoplasma, but in my postdoctoral studies I have cultivated 
