@@ -358,7 +358,20 @@ p {
   .main-wrapper .pres-title {
     display: block;
     float: left;
-    width: 75%;
+    width: 80%;
+    margin-bottom: 12px;
+  }
+  .main-wrapper .course-title {
+    display: block;
+    float: left;
+    width: 80%;
+    margin-bottom: 12px;
+  }
+  .main-wrapper .award-title {
+    display: block;
+    float: left;
+    width: 80%;
+    margin-bottom: 12px;
   }
 }
 /* Small devices (tablets, 768px and up) */
