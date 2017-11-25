@@ -306,6 +306,26 @@ p {
   right: 0;
   top: 0;
 }
+.main-wrapper .award-section .item {
+  margin-bottom: 30px;
+}
+.main-wrapper .award-upper-row {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2px;
+}
+.main-wrapper .award-title {
+  color: #3F4650;
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.main-wrapper .award-time {
+  position: absolute;
+  color: #3F4650;
+  right: 0;
+  top: 0;
+}
 .footer {
   padding: 30px;
   padding-top: 60px;
