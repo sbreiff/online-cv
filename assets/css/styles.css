@@ -276,16 +276,13 @@ p {
 }
 .main-wrapper .pres-title {
   color: #3F4650;
-  font-size: 16px;
   margin-top: 0;
   margin-bottom: 0;
-  font-weight: 500;
 }
 .main-wrapper .pres-time {
   position: absolute;
   right: 0;
   top: 0;
-  color: #97AAC3;
 }
 .footer {
   padding: 30px;
