@@ -8,16 +8,16 @@
     <div class="meta">
 
       <div class="pres-upper-row">
-        <h3 class="pres-title">{{ presentation.role }}</h3>
+        <p class="pres-title">{{ presentation.role }}</p>
         <div class="pres-time">{{ presentation.time }}</div>
       </div><!--//upper-row-->
 
     </div><!--//meta-->
 
-    <!--{% if presentation.details %}
+    {% if presentation.details %}
     <div class="details">
       <p>{{ presentation.details }}</p>
-    </div><//details-->
+    </div><!--//details-->
     {% endif %}
 
   </div><!--//item-->
