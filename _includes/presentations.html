@@ -2,21 +2,21 @@
 <section class="section presentations-section">
   <h2 class="section-title"><i class="fa fa-briefcase"></i>Selected Presentations</h2>
 
-{% for experience in site.data.experiences %}
+{% for presentation in site.data.presentations %}
   <div class="item">
 
     <div class="meta">
 
-      <div class="upper-row">
+      <div class="pres-upper-row">
         <h3 class="pres-title">{{ presentation.role }}</h3>
-        <div class="time">{{ presentation.time }}</div>
+        <div class="pres-time">{{ presentation.time }}</div>
       </div><!--//upper-row-->
 
     </div><!--//meta-->
 
-    {% if experience.details %}
+    <!--{% if presentation.details %}
     <div class="details">
-      <p>{{ experience.details }}</p>
+      <p>{{ presentation.details }}</p>
     </div><!--//details-->
     {% endif %}
 
