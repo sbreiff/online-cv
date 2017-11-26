@@ -21,6 +21,11 @@
     {% endfor %}
 
   </div>
-
+  
+  {% for tools in site.data.skills %}
+  <div class="tools">
+      <p>Command line tools: {{ intro.description }}</p>
+  </div><!--//tools-->
+  {% endfor%}
 </section><!--//skills-section-->
 {% endif %}
