@@ -14,3 +14,6 @@
   name: SQL queries
   name2: Mentoring and outreach experience
   level:
+
+- tools:
+  description: "bowtie2, samtools, bedtools, Infernal, RAxML, Circos"
