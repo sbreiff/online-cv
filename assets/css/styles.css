@@ -330,7 +330,7 @@ p {
   top: 0;
 }
 .main-wrapper .memberships-section .item {
-  margin-bottom: 30px;
+  margin-bottom: 0;
 }
 .main-wrapper .membership-upper-row {
   position: relative;
