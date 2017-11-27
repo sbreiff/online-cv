@@ -394,11 +394,10 @@ p {
     width: 80%;
     margin-bottom: 12px;
   }
-  .main-wrapper .membership-title {
+  .main-wrapper .time {
+    position: static;
     display: block;
-    float: left;
-    width: 80%;
-    margin-bottom: 12px;
+    margin-top: 5px;
   }
   .main-wrapper .award-title {
     display: block;
