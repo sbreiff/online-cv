@@ -394,6 +394,9 @@ p {
     width: 80%;
     margin-bottom: 12px;
   }
+  .main-wrapper .memberships-section .item {
+    margin-bottom: 16px;
+  }
   .main-wrapper .membership-title {
     display: block;
     float: left;
