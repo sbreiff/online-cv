@@ -1,4 +1,4 @@
-My personalized version of this theme, edited to be more useful for biologists, can be seen here [https://sbreiff.github.io/online-CV/](https://sbreiff.github.io/online-CV/)
+My personalized version of this theme, edited to be more useful for biologists, can be seen here [https://sbreiff.github.io/online-cv/](https://sbreiff.github.io/online-cv/)
 
 Below is the readme I forked from [sharu725](https://github.com/sharu725/online-cv/)
 
