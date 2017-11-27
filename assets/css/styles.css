@@ -394,10 +394,13 @@ p {
     width: 80%;
     margin-bottom: 12px;
   }
-  .main-wrapper .time {
+  .main-wrapper .membership-time {
     position: static;
     display: block;
     margin-top: 5px;
+  }
+  .main-wrapper .membership-upper-row {
+    margin-bottom: 0;
   }
   .main-wrapper .award-title {
     display: block;
