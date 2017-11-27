@@ -1,6 +1,6 @@
 # Site Settings
 title: Reiff CV
-url: 'http://webjeda.com'
+url: 'https://sbreiff.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -14,11 +14,11 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Genomics Scientist
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I have extensive experience in genetics and genomics of various protozoa, including apicomplexan parasites. 
-My graduate work focused on apicoplast DNA replication in Toxoplasma, but in my postdoctoral studies I have cultivated 
-a bioinformatics skill set and been heavily involved in the genome project and kinome analysis for the free-living 
-ciliate Stentor. I am excited about bioinformatics and genomics of protists and am seeking a staff position away from 
-the wet lab.'
+summary: 'I have extensive experience in genetics and genomics of various protists, including both free-living and parasitic. 
+My PhD work focused on apicoplast DNA replication in Toxoplasma, but in my postdoctoral studies I have cultivated 
+a bioinformatics skillset and been heavily involved in the genome project and kinome analysis for the large 
+ciliate Stentor. I am excited about functional genomics and cell biology of protists and am seeking a staff position in an
+innovative team.'
 
 #sidebar links
 email: sbreiff@gmail.com
