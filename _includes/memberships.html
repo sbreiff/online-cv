@@ -1,0 +1,21 @@
+{% if site.data.memberships %}
+<section class="section memberships-section">
+  <h2 class="section-title"><i class="fa fa-briefcase"></i>Memberships</h2>
+
+{% for membership in site.data.memberships %}
+  <div class="item">
+
+    <div class="meta">
+
+      <div class="membership-upper-row">
+        <p class="membership-title">{{ membership.title }}</p>
+        <div class="membership-time">{{ membership.time }}</div>
+      </div><!--//upper-row-->
+
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
