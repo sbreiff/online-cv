@@ -4,10 +4,14 @@
   company: Laboratory of Dr. Wallace Marshall, UCSF
   details: "I studied the large ciliate Stentor coeruleus, a model for single cell 
   regeneration. I was heavily involved in the Stentor genome project, generating and 
-  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size. 
+  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size. I also 
+  performed an orthology analysis on the predicted proteome to identify groups of 
+  evolutionarily conserved genes as well as novel paralog groups of hypothetical proteins.
   <br> <br>
   I have also been analyzing the global kinome of Stentor, which contains >2000 kinases.
-  Recently we have been using this data to reveal a role for CDK1 homologs in regeneration."
+  Through this analysis I have found a couple examples of novel domain architectures as well as
+  a few massively expanded kinase families in Stentor. Recently we have been using this data to 
+  reveal a role for CDK1 homologs in regeneration."
 - experience:
   role: PhD Student
   time: 2006 - 2012
