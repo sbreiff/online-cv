@@ -1,14 +1,18 @@
 - skill:
-  name: Python, R
-  name2: Gene Annotation
-  level: 0%
-- skill:
-  name: Version control with Git
+  name: Scripting in Python, R, shell
   name2: Sequence alignment and phylogenetic analysis
   level: 0%
 - skill:
+  name: Version control with Git
+  name2: Gene knockouts and RNAi
+  level: 0%
+- skill:
   name: RNA-Seq analysis and workflow
-  name2: General molecular biology techniques
+  name2: quantitative PCR
+  level:
+- skill:
+  name: Gene Annotation
+  name2: Cell culture of various protists
   level:
 - skill:
   name: SQL queries
