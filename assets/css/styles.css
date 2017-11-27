@@ -397,7 +397,7 @@ p {
   .main-wrapper .membership-time {
     position: static;
     display: block;
-    margin-top: 5px;
+    margin-bottom: 5px;
   }
   .main-wrapper .membership-upper-row {
     margin-bottom: 0;
