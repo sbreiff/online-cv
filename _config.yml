@@ -14,11 +14,11 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Genomics Scientist
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I have extensive experience in genetics and genomics of various protists, including both free-living and parasitic. 
-My PhD work focused on apicoplast DNA replication in the apicomplexan Toxoplasma, but in my postdoctoral studies I have cultivated 
-a bioinformatics skillset and been heavily involved in the genome project and kinome analysis for the large 
-ciliate Stentor. I am excited about functional genomics and cell biology of protists and am seeking a staff position in an
-innovative team.'
+summary: 'I have extensive experience in genetics and genomics of various unicellular eukaryotes, including both 
+free-living and parasitic. My PhD work focused on apicoplast DNA replication in the apicomplexan Toxoplasma, but 
+in my postdoctoral studies I have cultivated a bioinformatics skillset and been heavily involved in the genome 
+project and kinome analysis for the large ciliate Stentor. I am excited about technological advances in genomics 
+and am seeking a staff position in bioinformatics/genomics or genome curation.'
 
 #sidebar links
 email: sbreiff@gmail.com
