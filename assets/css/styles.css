@@ -276,12 +276,10 @@ p {
   position: relative;
   overflow: hidden;
   margin-bottom: 2px;
-  margin-top: 12px;
 }
 .main-wrapper .pres-event {
   color: #3F4650;
   font-size: 14px;
-  margin-top: 6px;
   margin-bottom: 0;
 }
 .main-wrapper .pres-time {
