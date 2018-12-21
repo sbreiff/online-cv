@@ -277,7 +277,7 @@ p {
   overflow: hidden;
   margin-bottom: 2px;
 }
-.main-wrapper .pres-title {
+.main-wrapper .pres-event {
   color: #3F4650;
   font-size: 14px;
   margin-top: 0;
@@ -288,6 +288,12 @@ p {
   color: #3F4650;
   right: 0;
   top: 0;
+}
+.main-wrapper .pres-title {
+  color: #3F4650;
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 .main-wrapper .courses-section .item {
   margin-bottom: 30px;
