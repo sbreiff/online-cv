@@ -1,18 +1,18 @@
 - skill:
-  name: Scripting in Python, R, shell
-  name2: Sequence alignment and phylogenetic analysis
+  name: Python & Shell scripting
+  name2: Design of JSON schemas
   level: 0%
 - skill:
   name: Version control with Git
-  name2: Gene knockouts and RNAi
+  name2: Familiar with ontologies
   level: 0%
 - skill:
-  name: RNA-Seq analysis and workflow
-  name2: quantitative PCR
+  name: Basic genomics workflows
+  name2: Extensive molecular biology experience
   level:
 - skill:
   name: Gene Annotation
-  name2: Cell culture of various protists
+  name2: JIRA
   level:
 - skill:
   name: SQL queries
