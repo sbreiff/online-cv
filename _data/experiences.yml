@@ -13,9 +13,7 @@
   company: Laboratory of Dr. Wallace Marshall, UCSF
   details: "I studied the large ciliate Stentor coeruleus, a model for single cell 
   regeneration. I was involved in the Stentor genome project, generating and 
-  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size. 
-  I also analyzed the global kinome of Stentor, which contains >2000 kinases and exhibits
-  novel domain architectures and a few massively expanded kinase families."
+  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size."
 - experience:
   role: PhD Student
   time: 2006 - 2012
@@ -29,7 +27,7 @@
   time: 2004 - 2006
   company: Laboratory of Dr. Michele Klingbeil, UMass Amherst
   details: "I examined the function of the mtDNA polymerase PolIA in the parasite Trypanosoma 
-  brucei. I used RNAi to knock down this non-essential gene and designed assays to DNA damaging
+  brucei. I used RNAi to knock down the gene and designed assays with DNA damaging
   agents to probe a function in mtDNA repair."
 - experience:
   role: Summer REU Intern
@@ -37,4 +35,4 @@
   company: Laboratory of Dr. Joseph Jerry, UMass Amherst
   details: "I was investigating the role of p53 in DNA double strand break repair. I worked with 
   mice and measured rates of homologous recombination and non-homologous end-joining in p53+/+, 
-  p53+/-, and p53-/- mouse cells. "
+  p53+/-, and p53-/- mouse cells."
