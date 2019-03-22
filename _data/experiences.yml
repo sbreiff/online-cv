@@ -2,11 +2,12 @@
   role: Data Curator
   time: 2018 - present
   company: Harvard Medical School
-  details: "Data wrangler at the 4D Nucleome Data Coordination Center interested in
-  optimizing the organization of biological data. I strive to make data FAIR: 
-  findable, accessible, interoperable, and reusable. I act as an interface
-  between biologists and developers and translate the needs of the research community
-  into data portal improvements."
+  details: "Data wrangler at the 4D Nucleome Data Coordination and Integration Center,
+  a repository for genomics and microscopy experimental data and metadata. I strive to make 
+  data FAIR: findable, accessible, interoperable, and reusable. I act as an interface between 
+  biologists and developers and translate the needs of the research community into data portal 
+  improvements. I regularly use python to patch and post data, and design new JSON schemas when 
+  the need arises for new database item types."
 - experience:
   role: Postdoctoral Scholar
   time: 2012 - 2018
