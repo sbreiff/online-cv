@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Data Curator
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Data wrangler with the 4D Nucleome Network. Interested in the organization of biological data.'
+summary: 'Data wrangler with the 4D Nucleome Network. Interested in the organization of biological data and making data FAIR.'
 
 #sidebar links
 email: sbreiff@gmail.com
