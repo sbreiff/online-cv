@@ -6,8 +6,8 @@
   a repository for genomics and microscopy experimental data and metadata. I strive to make 
   data FAIR: findable, accessible, interoperable, and reusable. I act as an interface between 
   biologists and developers and translate the needs of the research community into data portal 
-  improvements. I regularly use python to patch and post data, and design new JSON schemas when 
-  the need arises for new database item types."
+  improvements. I use REST APIs with python to patch and post data, and design JSON schemas for 
+  new database item types."
 - experience:
   role: Postdoctoral Scholar
   time: 2012 - 2018
