@@ -4,9 +4,9 @@
   company: Harvard Medical School
   details: "Data wrangler at the 4D Nucleome Data Coordination and Integration Center,
   a repository for genomics and microscopy experimental data and metadata. I strive to make 
-  data FAIR. I act as an interface between biologists and developers and translate the needs 
-  of the research community into data portal improvements. I use REST APIs with python to 
-  patch and post data, and design JSON schemas for new database item types."
+  data FAIR. I work with a large consortium of labs to implement data standards. I use REST APIs with python to 
+  patch and post data, and design JSON schemas for new database item types. I optimized the portal's 
+  processing of ontologies, and contributed new terms to the Experimental Factor Ontology."
 - experience:
   role: Postdoctoral Scholar
   time: 2012 - 2018
