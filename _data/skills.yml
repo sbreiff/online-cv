@@ -4,17 +4,17 @@
   level: 0%
 - skill:
   name: Version control with Git
-  name2: Experience with ontologies
+  name2: Experience with ontologies, RDF/XML
   level: 0%
 - skill:
   name: Basic genomics workflows
   name2: Extensive molecular biology experience
   level:
 - skill:
-  name: Gene Annotation
+  name: REST APIs
   name2: JIRA issue tracking
   level:
 - skill:
-  name: SQL queries
+  name: Basic SQL queries
   name2: Mentoring and outreach experience
   level:
