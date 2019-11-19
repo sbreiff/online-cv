@@ -1,4 +1,7 @@
 - presentation:
+  role: "International Biocuration Conference (Poster)"
+  time: 2019
+- presentation:
   role: "4DN Annual Meeting - Live Demo of 4DN HiGlass Workspace"
   time: 2018
 - presentation:
@@ -10,15 +13,6 @@
 - presentation:
   role: "The Allied Genetics Conference" 
   time: 2016
-- presentation:
-  role: "American Society for Cell Biology Annual Meeting"
-  time: 2015
-- presentation:
-  role: "Ciliate Molecular Biology Meeting"
-  time: 2013
-- presentation:
-  role: VI European Congress of Protistology
-  time: 2011
 - presentation:
   role: "21st Molecular Parasitology/Vector Biology Symposium"
   time: 2011
