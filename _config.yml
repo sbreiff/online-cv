@@ -15,8 +15,9 @@ name: Sarah Reiff
 tagline: Data Curator
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Experienced data wrangler interested in the organization of biological data and making data FAIR: 
-findable, accessible, interoperable, and reusable. I have extensive molecular biology research experience 
-and enjoy contributing to software development.'
+findable, accessible, interoperable, and reusable. I have extensive molecular biology research experience and act
+as an interface between biologists and developers, translating the needs of the research community into data portal 
+improvements. I enjoy coding and contributing to software development.'
 
 #sidebar links
 email: sbreiff@gmail.com
