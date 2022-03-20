@@ -1,20 +1,28 @@
 - skill:
-  name: Python & Shell scripting
+  name: Python
   name2: Data model development
   level: 0%
 - skill:
-  name: Version control with Git
+  name: Genomics and imaging data standards
   name2: Experience with ontologies, RDF/XML
   level: 0%
 - skill:
-  name: Basic genomics workflows
+  name: Genomics data analysis
   name2: Extensive molecular biology experience
   level:
 - skill:
-  name: REST APIs
-  name2: JIRA issue tracking
+  name: Data model design
+  name2: Custom ETL processes
   level:
 - skill:
-  name: Basic SQL queries
-  name2: Mentoring and outreach experience
+  name: HPC environments (Slurm)
+  name2: Cloud environments (AWS)
+  level:
+- skill:
+  name: REST APIs
+  name2: UNIX
+  level:
+- skill:
+  name: Detail oriented
+  name2: Excellent written and oral communication
   level:
