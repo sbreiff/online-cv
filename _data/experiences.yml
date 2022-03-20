@@ -3,18 +3,18 @@
   time: 2021 - present
   company: Harvard Medical School
   details: "Senior data wrangler working primarily with the CGAP project (Clinical Genomics Analysis Platform),
-  a platform facilitating analysis and interpretation of human genetic variants. I lead data model 
-  development and helped guide development of the Variant interpretation features. I also handle data submissions 
-  and onboard new users and projects."
+  an end-to-end platform facilitating genomic data analysis from raw data alignment to variant interpretation. 
+  I lead data model development and help guide development of features such as the variant interpretation module. 
+  I also handle data submissions and onboard new users and projects."
 - experience:
   role: Data Curator
   time: 2018 - 2021
   company: Harvard Medical School
   details: "Data wrangler working primarily with the 4D Nucleome Data Coordination and Integration Center,
-  a repository for genomics and microscopy experimental data and metadata. I strive to make 
-  data FAIR. I work with a large consortium of labs to implement data standards. I use REST APIs with python to 
-  manage data, and contribute to data model development. I optimized the portal's processing of ontologies, 
-  and contributed new terms to the Experimental Factor Ontology."
+  a repository for genomics and microscopy experimental data and metadata. I work with a large consortium 
+  of labs to implement data standards and adhere to FAIR principles. I use REST APIs with python to 
+  manage data and metadata, and contribute to data model development. I optimized the portal's processing 
+  of ontologies, and contributed new terms to the Experimental Factor Ontology."
 - experience:
   role: Postdoctoral Scholar
   time: 2012 - 2018
