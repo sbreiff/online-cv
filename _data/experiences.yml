@@ -2,14 +2,15 @@
   role: Senior Data Curator
   time: 2021 - present
   company: Harvard Medical School
-  details: "Senior data wrangler for the CGAP project (Clinical Genomics Analysis Platform),
+  details: "Senior data wrangler working primarily with the CGAP project (Clinical Genomics Analysis Platform),
   a platform facilitating analysis and interpretation of human genetic variants. I lead data model 
-  development and onboard new users and projects."
+  development and helped guide development of the Variant interpretation features. I also handle data submissions 
+  and onboard new users and projects."
 - experience:
   role: Data Curator
-  time: 2018 - present
+  time: 2018 - 2021
   company: Harvard Medical School
-  details: "Data wrangler at the 4D Nucleome Data Coordination and Integration Center,
+  details: "Data wrangler working primarily with the 4D Nucleome Data Coordination and Integration Center,
   a repository for genomics and microscopy experimental data and metadata. I strive to make 
   data FAIR. I work with a large consortium of labs to implement data standards. I use REST APIs with python to 
   manage data, and contribute to data model development. I optimized the portal's processing of ontologies, 
