@@ -1,4 +1,12 @@
 - experience:
+  role: Senior Data Modeler/Analyst
+  time: 2022 - present
+  company: Seven Bridges Genomics
+  details: "Data modeler on the data harmonization team. We are working to enable an automated end-to-end solution for data 
+  governance and harmonization for all the datasets we serve, starting with data discovery and cataloging to data quality
+  and data modeling. I develop data models, using common data models when possible, and extending them to insure the integration 
+  of clinical and genomic data."
+- experience:
   role: Senior Data Curator
   time: 2021 - present
   company: Harvard Medical School
