@@ -7,7 +7,11 @@
     governance and harmonization for all the datasets we serve, starting with data discovery and cataloging to data quality
     and data modeling. I develop data models, using common data models when possible, and extending them to insure the integration 
     of clinical and genomic data.
-    * bullet
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul> 
 - experience:
   role: Senior Data Curator
   time: 2021 - present
