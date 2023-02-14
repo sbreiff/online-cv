@@ -3,10 +3,14 @@
   time: 2022 - present
   company: Seven Bridges Genomics
   details: >
-    Data modeler on the data harmonization team. We are working to enable an automated end-to-end solution for data 
-    governance and harmonization for all the datasets we serve, starting with data discovery and cataloging to data quality
-    and data modeling. I develop data models, using common data models when possible, and extending them to insure the integration 
-    of clinical and genomic data.
+    Data modeler on the data insights team, working to increase automation and decrease time required for ingestion 
+    of complex custom datasets. I provide expertise in biomedical data modeling, leveraging common data models when 
+    possible, and in integration of clinical and genomics data.
+    <ul>
+      <li>Contribute to team’s product roadmap</li>
+      <li>Conceptual mapping of clinical data to OMOP common data model</li>
+      <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow by 20%</li>
+    </ul>
 - experience:
   role: Senior Data Curator
   time: 2021 - present
@@ -14,8 +18,13 @@
   details: >
     Senior data wrangler working primarily with the CGAP project (Clinical Genomics Analysis Platform),
     an end-to-end platform facilitating genomic data analysis from raw data alignment to variant interpretation. 
-    I lead data model development and help guide development of features such as the variant interpretation module. 
-    I also handle data submissions and onboard new users and projects.
+    I led data model development and helped manage development of features such as the variant interpretation module. 
+    I also handled data submissions and developed software for ingestion.
+    <ul>
+      <li>Onboarded new users and projects</li>
+      <li>Managed new data submissions</li>
+      <li>Led interviews with clinicians to understand user needs</li>
+      <li>Translated product requirements for software developers</li>
 - experience:
   role: Data Curator
   time: 2018 - 2021
@@ -23,10 +32,11 @@
   details: >
     Data wrangler working primarily with the 4D Nucleome Data Coordination and Integration Center,
     a repository for genomics and microscopy experimental data and metadata. I work with a large consortium 
-    of labs to implement data standards and adhere to FAIR principles. I use REST APIs with python to 
-    manage data and metadata, and contribute to data model development. I optimized the portal's processing 
-    of ontologies, and contributed new terms to relevant biomedical ontologies.
+    of labs to ingest new datasets, implement data standards, and adhere to FAIR principles. I use REST APIs 
+    with python to manage data and metadata, and contribute to data model development. I optimized the portal's 
+    processing of ontologies, and contributed new terms to relevant biomedical ontologies.
     <ul>
+      <li>Led meetings and training sessions with end users</li>
       <li>Scientific publication and user-facing documentation</li>
       <li>Participate in consortium working groups</li>
       <li>Member of Common Fund Data Ecosystem Ontology Working Group</li>
