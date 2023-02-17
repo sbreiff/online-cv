@@ -14,9 +14,11 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Data Curator
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Data professional and scientist with a passion for democratizing access to genomics data and insights. I've spent the last 5 
-years working to build biomedical data platforms, and my 10+ years of research experience in molecular biology and genomics 
-allow me to understand the needs of the research community and serve as a liaison between stakeholders and developers."
+summary: "Genomics enthusiast with a passion for democratizing access to scientific data and insights, seeking 
+product management opportunities. I have spent the last 5 years working to build biomedical data platforms, and my 
+10+ years of research experience in molecular biology and genomics allow me to understand the needs of the research 
+community and serve as a liaison between users, stakeholders, and developers. 
+"
 
 #sidebar links
 email: sbreiff@gmail.com
