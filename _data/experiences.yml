@@ -1,40 +1,41 @@
 - experience:
   role: Senior Data Modeler/Analyst
-  time: 2022 - present
-  company: Seven Bridges Genomics
+  time: May 2022 - present
+  company: Velsera/Seven Bridges Genomics
   details: >
     Data modeler on the data insights team, working to increase automation and decrease time required for ingestion 
     of complex custom datasets. I provide expertise in biomedical data modeling, leveraging common data models when 
     possible, and in integration of clinical and genomics data.
     <ul>
       <li>Contribute to team’s product roadmap</li>
+      <li>Market research on clinical data models and analysis ecosystems</li>
       <li>Conceptual mapping of clinical data to OMOP common data model</li>
-      <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow by 20%</li>
+      <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow</li>
     </ul>
 - experience:
   role: Senior Data Curator
-  time: 2021 - present
+  time: Jan 2021 - May 2022
   company: Harvard Medical School
   details: >
-    Senior data wrangler working primarily with the CGAP project (Clinical Genomics Analysis Platform),
-    an end-to-end platform facilitating genomic data analysis from raw data alignment to variant interpretation. 
-    I led data model development and helped manage development of features such as the variant interpretation module. 
-    I also handled data submissions and developed software for ingestion.
+    Data wrangling and product management for the Computational Genome Analysis Platform project, an end-to-end 
+    platform for clinical genomics workflows from raw sequencing data to variant interpretation. I led the data 
+    model design and managed data submissions to the platform, and led development of new platform features.
     <ul>
+      <li>Data model design</li>
+      <li>Product management of data submission tool and variant interpretation module</li>
       <li>Onboarded new users and projects</li>
-      <li>Managed new data submissions</li>
       <li>Led interviews with clinicians to understand user needs</li>
-      <li>Translated product requirements for software developers</li>
+      <li>Define product requirements for software developers</li>
+    </ul>
 - experience:
   role: Data Curator
-  time: 2018 - 2021
+  time: Mar 2018 - Jan 2021
   company: Harvard Medical School
   details: >
-    Data wrangler working primarily with the 4D Nucleome Data Coordination and Integration Center,
-    a repository for genomics and microscopy experimental data and metadata. I work with a large consortium 
-    of labs to ingest new datasets, implement data standards, and adhere to FAIR principles. I use REST APIs 
-    with python to manage data and metadata, and contribute to data model development. I optimized the portal's 
-    processing of ontologies, and contributed new terms to relevant biomedical ontologies.
+    Data wrangling for the 4D Nucleome Data Coordination and Integration Center, a repository for genomics and 
+    microscopy experimental data and metadata. I work with a large consortium of labs to ingest new datasets, 
+    implement data standards, and adhere to FAIR principles. I use REST APIs with python to manage data and metadata, 
+    and contribute to data model and software development.
     <ul>
       <li>Led meetings and training sessions with end users</li>
       <li>Scientific publication and user-facing documentation</li>
