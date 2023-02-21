@@ -1,28 +1,28 @@
 - skill:
-  name: Python
-  name2: UNIX
-  level: 0%
-- skill:
-  name: REST APIs
-  name2: HPC environments (Slurm)
-  level: 0%
-- skill:
-  name: Data model development
+  name: Genomics and microscopy data standards
   name2: Cloud environments (AWS)
-  level:
+  level: 0%
 - skill:
-  name: Genomics and imaging data standards
-  name2: Extensive research experience
-  level:
+  name: Excellent written and oral communication
+  name2: Product requirement definition
+  level: 0%
 - skill:
-  name: Ontologies and RDF/XML
-  name2: Version control with git
+  name: Python
+  name2: Agile/scrum experience
+  level: 0%
+- skill:
+  name: Experience with EHR/clinical data
+  name2: Biomedical data modeling
   level:
 - skill:
   name: Genomics data analysis
-  name2: Detail-oriented
+  name2: Extensive research experience
   level:
 - skill:
-  name: Custom ETL processes
-  name2: Excellent written and oral communication
+  name: Biomedical ontologies and RDF
+  name2: REST APIs
+  level:
+- skill: 
+  name: User engagement
+  name2: Detail-oriented
   level:
