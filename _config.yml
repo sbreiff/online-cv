@@ -14,10 +14,10 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Sarah Reiff
 tagline: Genomics Data Ecosystems
 pic: profile1.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Genomics enthusiast with a passion for democratizing access to scientific data and insights, seeking 
-product management opportunities. I have spent the last 5 years working to build biomedical data platforms, and my 
-10+ years of research experience in molecular biology and genomics combined with excellent communication skills 
-allow me to understand the needs of the research community and serve as a liaison between users, stakeholders, and developers. 
+summary: "Biomedical data specialist with a passion for data harmonization, seeking new opportunities in life science 
+data ecosystems. I have spent the last 5 years working to build biomedical data platforms and manage data, and my 10+ 
+years of research experience in molecular biology and genomics allow me to understand the needs of the scientific 
+community and serve as a liaison between users, stakeholders, and developers.
 "
 
 #sidebar links
