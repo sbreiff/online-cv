@@ -3,14 +3,15 @@
   time: May 2022 - present
   company: Velsera/Seven Bridges Genomics
   details: >
-    Data modeler on the data insights team, working to increase automation and decrease time required for ingestion 
-    of complex custom datasets. I provide expertise in biomedical data modeling, leveraging common data models when 
-    possible, and in integration of clinical and genomics data.
+    Data modeling to support a cohort browser for patient health data. My efforts focused on the OMOP 
+    common data model for clinical data and building/providing expertise needed to support product strategy
+    as well as ETL and integration with complex variant information and omics data.
     <ul>
-      <li>Contribute to team’s product roadmap</li>
+      <li>Mapping of clinical datasets to OMOP CDM</li>
       <li>Market research on clinical data models and analysis ecosystems</li>
-      <li>Conceptual mapping of clinical data to OMOP common data model</li>
       <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow</li>
+      <li>Helped lead PoC for Collibra data catalog</li>
+      <li>Member of OHDSI Genomics Working Group</li>
     </ul>
 - experience:
   role: Senior Data Curator
@@ -22,8 +23,9 @@
     model design and managed data submissions to the platform, and planned and defined new platform features.
     <ul>
       <li>Data model design</li>
-      <li>Product management of data submission tool and variant interpretation module</li>
       <li>Onboarded new users and projects</li>
+      <li>Software development for data ingestion and mapping to data model</li>
+      <li>Product management of data submission tool and variant interpretation module</li>
       <li>Led interviews with clinicians to understand user needs</li>
       <li>Define product requirements for software developers</li>
     </ul>
@@ -33,22 +35,31 @@
   company: Harvard Medical School
   details: >
     Data wrangling for the 4D Nucleome Data Coordination and Integration Center, a repository for genomics and 
-    microscopy experimental data and metadata. I work with a large consortium of labs to ingest new datasets, 
+    microscopy experimental data and metadata. I work with a large consortium of 100+ labs to ingest new datasets, 
     implement data standards, and adhere to FAIR principles. I use REST APIs with python to manage data and metadata, 
     and contribute to data model and software development.
     <ul>
-      <li>Led meetings and training sessions with end users</li>
+      <li>Data model design</li>
+      <li>Managed new data submissions</li>
       <li>Scientific publication and user-facing documentation</li>
-      <li>Participate in consortium working groups</li>
+      <li>Optimized ontology processing code and submitted terms to public ontologies</li>
+      <li>Participated in consortium working groups to set genomics and microscopy data standards</li>
       <li>Member of Common Fund Data Ecosystem Ontology Working Group</li>
     </ul> 
 - experience:
   role: Postdoctoral Scholar
   time: 2012 - 2018
   company: Laboratory of Dr. Wallace Marshall, UCSF
-  details: "I studied the large ciliate Stentor coeruleus, a model for single cell 
-  regeneration. I was involved in the Stentor genome project, generating and 
-  analyzing RNA-Seq data, and discovered Stentor's unusual 15 bp intron size."
+  details: >
+    I studied the large ciliate Stentor coeruleus, a model for single cell regeneration. I was involved in 
+    the Stentor genome project, and investigated the role of CDKs in regeneration of cellular features. 
+    <ul>
+      <li>Managed collaborations with scientists at other institutions</li>
+      <li>Generated and analyzed RNA-Seq data</li>
+      <li>Discovered Stentor’s unusual 15 bp intron size</li>
+      <li>Used HMMs and molecular evolution approaches to classify Stentor kinases into families</li>
+      <li>Mentored graduate students</li>
+    </ul>
 - experience:
   role: PhD Student
   time: 2006 - 2012
