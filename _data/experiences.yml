@@ -4,7 +4,7 @@
   company: Velsera/Seven Bridges Genomics
   details: >
     Data modeling to support a cohort browser for patient health data. My efforts focused on the OMOP 
-    common data model for clinical data and building/providing expertise needed to support product strategy
+    common data model for clinical data and building/providing expertise needed to support product strategy,
     as well as ETL and integration with complex variant information and omics data.
     <ul>
       <li>Mapping of clinical datasets to OMOP CDM</li>
