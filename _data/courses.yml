@@ -1,4 +1,10 @@
 - course:
+  title: "Introduction to Machine Learning with R - Harvard Extension School"
+  time: 2020
+- course:
+  title: "Natural Language Processing and Text Analytics - Harvard Extension School"
+  time: 2019
+- course:
   title: "Advanced Python for Data Science - Harvard Extension School"
   time: 2018
 - course:
