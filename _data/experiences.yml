@@ -1,16 +1,26 @@
 - experience:
-  role: Senior Data Modeler/Analyst
+  role: Senior Scientific Knowledge Engineer
+  time: May 2023 - Present
+  company: GSK
+  details: >
+    I support the semantic layer of the Onyx Data Platform that GSK developed to power research and drug discovery.
+    <ul>
+      <li>Harmonization of data to internal schemas</li>
+      <li>Data modeling</li>
+      <li>Ontology Development</li>
+      <li>Gathering requirements from stakeholders and users</li>
+    </ul>
+- experience:
+  role: Senior Data Analyst
   time: May 2022 - Feb 2023
-  company: Velsera/Seven Bridges Genomics
+  company: Velsera (formerly Seven Bridges Genomics)
   details: >
     Data modeling to support a cohort browser for patient health data. My efforts focused on the OMOP 
     common data model for clinical data and building/providing expertise needed to support product strategy,
     as well as ETL and integration with complex variant information and omics data.
     <ul>
-      <li>Mapping of clinical datasets to OMOP CDM</li>
-      <li>Market research on clinical data models and analysis ecosystems</li>
+      <li>Exploration of OMOP CDM for internal use cases</li>
       <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow</li>
-      <li>Helped lead PoC for Collibra data catalog</li>
       <li>Member of OHDSI Genomics Working Group</li>
     </ul>
 - experience:
