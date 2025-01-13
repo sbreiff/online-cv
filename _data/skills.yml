@@ -4,7 +4,7 @@
   level: 0%
 - skill:
   name: SQL
-  name2: Use of Cloud environments (AWS)
+  name2: Use of Cloud environments (AWS, GCP)
   level: 0%
 - skill:
   name: Genomics and microscopy data standards
@@ -18,10 +18,6 @@
   name: Genomics data analysis
   name2: Extensive research experience
   level: 0%
-- skill:
-  name: Experience with EHR/clinical data
-  name2: Agile/scrum experience
-  level:
 - skill:
   name: Biomedical ontologies and OWL/RDF
   name2: Engagement with End Users
