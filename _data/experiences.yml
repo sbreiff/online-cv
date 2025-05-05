@@ -3,23 +3,25 @@
   time: May 2023 - Present
   company: GSK
   details: >
-    I support the semantic layer of the Onyx Data Platform that GSK developed to power research and drug discovery.
+    Product Lead for single cell genomics platform, leading a cross-functional team of data engineers and 
+    computational biologists. Lead data harmonization efforts and provide data modeling support for the 
+    Onyx Research Data Platform, serving research and early discovery teams. 
     <ul>
-      <li>Harmonization of data to internal schemas</li>
-      <li>Data modeling</li>
-      <li>Ontology Development</li>
-      <li>Gathering requirements from stakeholders and users</li>
+      <li>Develop conceptual and logical data models tailored to scientific use cases and business needs</li>
+      <li>Lead omics harmonization to internal schemas, collaborating with users to prioritize most important fields</li>
+      <li>Communicate business priorities and scientific use cases to engineers, bridging the gap between scientific and technical domains of expertise</li>
+      <li>Extension of internal ontologies and code mappings to support clearly defined business needs</li>
     </ul>
 - experience:
   role: Senior Data Analyst
   time: May 2022 - Feb 2023
   company: Velsera (formerly Seven Bridges Genomics)
   details: >
-    Data modeling to support a cohort browser for patient health data. My efforts focused on the OMOP 
-    common data model for clinical data and building/providing expertise needed to support product strategy,
-    as well as ETL and integration with complex variant information and omics data.
+    Data modeling to support a cohort browser for patient health data. My efforts focused on evaluating standardized
+    clinical data models and providing expertise needed to support product strategy,
+    as well as mapping and integration with complex variant information and omics data.
     <ul>
-      <li>Exploration of OMOP CDM for internal use cases</li>
+      <li>Evaluation of OMOP CDM for internal use cases</li>
       <li>Led PoC for a data obfuscation tool that reduced complexity of testing workflow</li>
       <li>Member of OHDSI Genomics Working Group</li>
     </ul>
